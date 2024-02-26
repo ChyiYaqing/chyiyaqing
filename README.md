@@ -1,9 +1,9 @@
 # chyiyaqing
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChyiYaqing/ChyiYaqing/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChyiYaqing/ChyiYaqing/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ChyiYaqing/ChyiYaqing/output/github-contribution-grid-snake.svg">
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=ChyiYaqing&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=ChyiYaqing&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%235580eb%2C%20%232aeeff)">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=ChyiYaqing&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
 </picture>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChyiYaqing)](https://github.com/anuraghazra/github-readme-stats)
